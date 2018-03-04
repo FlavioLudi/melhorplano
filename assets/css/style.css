@@ -1,0 +1,41 @@
+.panel-plan {
+	margin-bottom: 75px;
+}
+
+.panel-plan:hover {
+	box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
+}
+
+.panel-plan .panel-heading {
+	background-color: #1DBBAC;
+	color: #FFF;
+}
+
+.panel-plan .panel-heading .fa {
+	margin: 10px;
+	font-size: 58px;
+}
+
+.panel-plan .list-group-item {
+	color: #777;
+}
+
+.panel-plan .panel-body {
+	background-color: #f0f0f0;
+	font-size: 20px;
+	color: #777;
+}
+
+.panel-plan .panel-body p {
+	margin: 0;
+}
+
+.panel-plan .panel-body strong {
+	color: #444;
+	font-weight: bold;
+	font-size: 40px;
+}
+
+.panel-plan .panel-body small {
+	font-size: initial;
+}
